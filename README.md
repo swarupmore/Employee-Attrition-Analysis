@@ -7,8 +7,9 @@ I have used a dataset from Kaggle, you can find the dataset with this [link](htt
 [Live Dashboard link](https://www.novypro.com/project/-employee-attrition-analysis-)
 
 <p align="center">
-  <img src=(https://github.com/swarupmore/Employee-Attrition-Analysis/blob/main/Images/Screenshot%202023-08-06%20012920.png) width="350" align="center">
-  <img src= width="350" align="center">
+  <img src=https://github.com/swarupmore/Employee-Attrition-Analysis/blob/main/Images/Screenshot%202023-08-06%20012920.png align="center">
+    <img src=https://github.com/swarupmore/Employee-Attrition-Analysis/blob/main/Images/Screenshot%202023-08-06%20012943.png align="center">
+  
 </p>
 
 
